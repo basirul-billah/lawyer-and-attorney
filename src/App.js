@@ -3,8 +3,8 @@ import Header from './Pages/Components/Header/Header';
 import { Routes, Route } from "react-router-dom";
 import Home from './Pages/Home/Home';
 import Services from './Pages/Components/Services/Services';
-import Services from './Pages/Components/Blog/Blog';
-import Services from './Pages/Components/About/About';
+import Blog from './Pages/Blog/Blog';
+import About from './Pages/About/About';
 import NotFound from './Pages/NotFound/NotFound';
 import Footer from './Pages/Components/Footer/Footer';
 
