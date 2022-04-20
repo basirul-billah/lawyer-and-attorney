@@ -1,10 +1,12 @@
 import React from 'react';
 
 const Footer = () => {
+    const today = new Date();
+    const year = today.getFullYear();
     return (
-        <div className="d-flex flex-column">
-            <footer className="mt-auto">
-                <h6>Footer</h6>
+        <div className='Footer bg-dark text-white p-4'>
+            <footer>
+                <h6>Copyright @ {year}</h6>
             </footer>
         </div>
     );

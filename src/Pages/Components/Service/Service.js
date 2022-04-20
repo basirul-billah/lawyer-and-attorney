@@ -12,7 +12,7 @@ const Service = ({ service }) => {
                     <Card.Text>
                         {description}
                     </Card.Text>
-                    <Button className='mt-auto' variant="dark">Make an appointment.</Button>
+                    <Button className='mt-auto' variant="dark">Make an appointment</Button>
                 </Card.Body>
             </Card>
         </div>
