@@ -2,6 +2,9 @@
 
 A website for an independent lawyer.
 
+## Live site
+https://lawyer-and-attorney.web.app
+
 ## Technologies used
 * Javascript
 * React JS
