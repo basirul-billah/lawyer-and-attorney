@@ -3,30 +3,35 @@
         "id": 1,
         "img": "https://rmwlaw.co.ke/images/family2.jpg",
         "title": "Family Law",
-        "description": "Providing best suggestion and cause of action for family disputes."
+        "description": "Providing best suggestion and cause of action for family disputes.",
+        "price": 200
     },
     {
         "id": 2,
         "img": "https://harveylawcorporation.com/wp-content/uploads/2020/04/Corporate-Law-1-750x406.jpg",
         "title": "Business Law",
-        "description": "Specialized lawyers will provide insight and will work actively to resolve business issues lawfully."
+        "description": "Specialized professional knowledge will provide insight and will work actively to resolve business issues lawfully.",
+        "price": 300
     },
     {
         "id": 3,
         "img": "https://attorneyatlawmagazine.com/wp-content/uploads/2019/10/trust-issues-when-to-hire-a-trust-attorney.jpg",
         "title": "Trust and Estate",
-        "description": "Calculating inheritance and measuring estates for the clients that needs it most."
+        "description": "Calculating inheritance and measuring estates for the clients that needs it most.",
+        "price": 250
     },
     {
         "id": 4,
         "img": "https://slcbd.com/upload/service/AbHUFNLB6hgrjnvGMDg2.jpg",
         "title": "Civil Litigation",
-        "description": "Civil law as opposed to Criminal Law is used to resolve non-criminal disputes, including property disagreements and breaches of contract. "
+        "description": "Civil law as opposed to Criminal Law is used to resolve non-criminal disputes, including property disagreements and breaches of contract. ",
+        "price": 150
     },
     {
         "id": 5,
         "img": "https://i0.wp.com/epthinktank.eu/wp-content/uploads/2019/10/eprs-briefing-642240-reform-service-of-documents-regulation-final.jpg?fit=1000%2C562&ssl=1",
         "title": "Legal Document Support",
-        "description": "We provide best in class legal support on legal documents. Our professional counselor provides industry leading insight on legal documents."
+        "description": "I provide best in class legal support on legal documents.",
+        "price": 230
     }
 ]

@@ -15,8 +15,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>Meet us we can help you</h3>
-                        <p>From criminal cases to domestic issues, our team is ready to serve you.</p>
+                        <h3>Meet me I can help you</h3>
+                        <p>From criminal cases to domestic issues, I am ready to serve you.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -28,7 +28,7 @@ const Banner = () => {
 
                     <Carousel.Caption>
                         <h3>Constant support 24x7</h3>
-                        <p>Our emergency team is always ready to get you that Sunday night bail out of police station.</p>
+                        <p>I am always ready by the clock to help you in emergency cases.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -40,7 +40,7 @@ const Banner = () => {
 
                     <Carousel.Caption>
                         <h3>Negotiate boldly</h3>
-                        <p>Our negotiation experts can help you get the best results from your counterpart.</p>
+                        <p>With my negotiation skills I will help you to get through the toughest negotiations.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
